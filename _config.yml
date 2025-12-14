@@ -16,7 +16,7 @@ timezone: Asia/Manila
 
 title: DamiWorks # the main title
 
-tagline: Wala pa eh # it will display as the subtitle
+tagline: Wala pa eh. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
